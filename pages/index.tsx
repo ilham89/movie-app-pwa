@@ -81,7 +81,7 @@ const Home: NextPage = () => {
                 mb={1}
                 sx={{ width: "55%", fontSize: 22, fontWeight: 700 }}
             >
-                Search Your Favorite Movie's
+                Search Your Favorite Movies
             </Box>
             <Box px={2} mb={2} sx={{ display: "flex" }}>
                 <Box

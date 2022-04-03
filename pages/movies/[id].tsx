@@ -42,6 +42,7 @@ const PopularDetail = () => {
             fetchDetail();
             // fetchYoutubeTrailer();
         }
+        // eslint-disable-next-line
     }, [router.query]);
 
     const Root = styled(Container)({
